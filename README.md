@@ -331,9 +331,7 @@ Contributions are welcome.
 
 ---
 Author 
-Mayuresh Parbat | Github
-
-### ⭐ If you found this project useful, consider giving it a star!
+**Mayuresh Parbat | Github**
 
 **Built with Java, Spring Boot, and ❤️**
 
