@@ -331,7 +331,7 @@ Contributions are welcome.
 
 ---
 Author 
-**Mayuresh Parbat | Github**
+**Mayuresh Parbat**
 
 **Built with Java, Spring Boot, and ❤️**
 
