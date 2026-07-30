@@ -229,14 +229,6 @@ http://localhost:8080
 POST /api/auth/register
 ```
 
-```json
-{
-  "name": "John Doe",
-  "email": "john@example.com",
-  "password": "password123"
-}
-```
-
 ---
 
 ### Login User
