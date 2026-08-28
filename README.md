@@ -273,13 +273,6 @@ You can test the APIs using:
 * cURL
 * Swagger UI (if integrated)
 
-Example:
-
-```bash
-curl -X GET \
-http://localhost:8080/api/products \
--H "Authorization: Bearer YOUR_TOKEN"
-```
 
 ---
 
