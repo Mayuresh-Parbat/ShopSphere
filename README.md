@@ -314,9 +314,6 @@ Contributions are welcome.
 4. Push your branch
 5. Open a Pull Request
 
----
-Author 
-**Mayuresh Parbat**
 
 **Built with Java, Spring Boot, and ❤️**
 
